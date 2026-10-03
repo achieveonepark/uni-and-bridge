@@ -1,0 +1,45 @@
+# macOS
+.DS_Store
+._*
+
+# Gradle / Android
+.gradle/
+.kotlin/
+build/
+.cxx/
+.externalNativeBuild/
+local.properties
+
+# IDE-generated files
+.idea/
+.vs/
+*.iml
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+
+# Unity caches, logs and player builds
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+/unity-export/
+
+# Local credentials and signing keys
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+keystore.properties
+
+# Python verification cache
+__pycache__/
+*.py[cod]
+
+# Unity .meta files and the Gradle wrapper JAR remain versioned.

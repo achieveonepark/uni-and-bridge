@@ -1,0 +1,15 @@
+{
+  "name": "com.achieve.unitybridge",
+  "version": "0.1.0",
+  "displayName": "Android Unity Bridge",
+  "description": "Receive Android data, send events and return results to the host app.",
+  "unity": "6000.0",
+  "keywords": ["android", "bridge", "unity-as-a-library"],
+  "samples": [
+    {
+      "displayName": "Bridge Example",
+      "description": "Receive initial data and return a result without additional UI packages.",
+      "path": "Samples~/BridgeExample"
+    }
+  ]
+}
